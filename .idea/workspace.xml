@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d6683fe3-8c3a-4276-9689-38e6836d50bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/questions/Answer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tasks/Fill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tasks/OpenUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/userinterfaces/InitPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/userinterfaces/StepsOnPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runners/RunnerTags.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepsdefinitions/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepsdefinitions/RetoVueloStepDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/reto_vuelo.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../retoVuelo/serenity.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../retoVuelo/src/main/java/questions/Answer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../retoVuelo/src/main/java/tasks/Fill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../retoVuelo/src/main/java/tasks/OpenUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../retoVuelo/src/main/java/userinterface/InitPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../retoVuelo/src/main/java/userinterface/StepsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../retoVuelo/src/test/java/runners/RunnerTags.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../retoVuelo/src/test/java/stepdefinitions/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../retoVuelo/src/test/java/stepdefinitions/RetoVueloStepsDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../retoVuelo/src/test/resources/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../retoVuelo/src/test/resources/features/reto_vuelo.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../reto_banca/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../reto_banca/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="reto_vuelo" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mcP9kz7lA14CJrPxe1DChUPRwx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/drivers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="userinterfaces" />
+      <recent name="tasks" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\phernandezm\Documents\Projects\retoVuelo\src\test\resources\drivers" />
+      <recent name="C:\Users\phernandezm\Documents\Projects\retoVuelo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RunnerTags" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;runners.RunnerTags&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.RunnerTags" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6683fe3-8c3a-4276-9689-38e6836d50bc" name="Default Changelist" comment="" />
+      <created>1609789760774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609789760774</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1609794372505">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1609794372505" />
+    <state x="413" y="140" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1609793520547">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="140" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1609793520547" />
+    <state width="1323" height="535" key="GridCell.Tab.0.bottom" timestamp="1609795084807">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="535" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1609795084807" />
+    <state width="1323" height="535" key="GridCell.Tab.0.center" timestamp="1609795084807">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="535" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1609795084807" />
+    <state width="1323" height="535" key="GridCell.Tab.0.left" timestamp="1609795084807">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="535" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1609795084807" />
+    <state width="1323" height="535" key="GridCell.Tab.0.right" timestamp="1609795084807">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="535" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1609795084807" />
+  </component>
+</project>
